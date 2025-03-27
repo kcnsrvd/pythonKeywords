@@ -1,7 +1,7 @@
 # pythonKeywords
 
 GUESS THE WORD.
-This is a simple Python-based Hangman or guessing game where players try to guess a secret word by guessing one letter at a time. The game allows for up to 6 incorrect guesses before the player loses.
+This is a simple guessing game or hangman like game where players try to guess a secret word by guessing one letter at a time. The game allows for up to 6 incorrect guesses before the player loses.
 
 Game Flow
 1. The program randomly selects a word from a predefined list.
