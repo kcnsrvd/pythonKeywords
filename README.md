@@ -11,4 +11,4 @@ Game Flow
 6. The game continues until the word is guessed or attempts are exhausted.
 
 Keywords Used:
-import, global, def, if, elif, else, while, break, continue, return, input
+and, as, break, class, continue, def, elif, else, False, for, global, if, import, in, is, lower, not, or, return, True, while, with
