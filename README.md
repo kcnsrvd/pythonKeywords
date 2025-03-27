@@ -1,6 +1,6 @@
 # pythonKeywords
 
-GUESS THE WORD
+GUESS THE WORD.
 This is a simple Python-based Hangman or guessing game where players try to guess a secret word by guessing one letter at a time. The game allows for up to 6 incorrect guesses before the player loses.
 
 Game Flow
@@ -10,6 +10,5 @@ Game Flow
 4. If the letter is not in the word, one attempt is deducted.
 6. The game continues until the word is guessed or attempts are exhausted.
 
-Keywords Used
-This project demonstrates the use of the following Python keywords:
+Keywords Used:
 import, global, def, if, elif, else, while, break, continue, return, input
