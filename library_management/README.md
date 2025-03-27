@@ -16,4 +16,4 @@ Search Book: Search books by title or author.
 
 Show Available Books: View available (non-borrowed) books.
 
-Keywords Used: and, or, not, is, lambda, nonlocal, yield, class, def, del, assert, try, except, finally, raise, global, if, elif, else, for, in, continue, break, pass
+Keywords Used: and, as, assert, break, class, continue, def, del, elif, else, except, False, finally, for, from, global, if, import, in, is, lambda, None, nonlocal, not, or, pass, raise, return, True, try, while, with, yield
